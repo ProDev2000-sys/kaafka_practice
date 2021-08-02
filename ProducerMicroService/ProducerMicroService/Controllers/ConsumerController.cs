@@ -32,11 +32,16 @@ namespace ProducerMicroService.Controllers
                  consumer.Subscribe("demo");
 
 
-                var cr = consumer.Consume();
-               
-                Console.WriteLine(cr.Message.Value);
+                while (true)
+                {
+                    var cr = consumer.Consume();
 
-                return cr.Message.Value;
+                    Console.WriteLine(cr.Message.Value);
+
+                    return cr.Message.Value;
+
+                }
+                
                 
 
             }

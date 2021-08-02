@@ -80,7 +80,6 @@ C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\Produc
 C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\ProducerMicroService\bin\Debug\net5.0\runtimes\win-x86\native\msvcp120.dll
 C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\ProducerMicroService\bin\Debug\net5.0\runtimes\win-x86\native\msvcr120.dll
 C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\ProducerMicroService\bin\Debug\net5.0\runtimes\win-x86\native\zlib.dll
-C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\ProducerMicroService\obj\Debug\net5.0\ProducerMicroService.csproj.AssemblyReference.cache
 C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\ProducerMicroService\obj\Debug\net5.0\ProducerMicroService.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\ProducerMicroService\obj\Debug\net5.0\ProducerMicroService.AssemblyInfoInputs.cache
 C:\Users\sumuk\Source\Repos\kaafka_practice_Pratysha\ProducerMicroService\ProducerMicroService\obj\Debug\net5.0\ProducerMicroService.AssemblyInfo.cs
