@@ -434,19 +434,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\sumuk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
+      "projectUniqueName": "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
       "projectName": "ProducerMicroService",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\ProducerMicroService\\obj\\",
+      "projectPath": "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
+      "packagesPath": "C:\\Users\\sumuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sumuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
