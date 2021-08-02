@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wgc8K11ThW2lIRyZziDT6MD1ABwiZCJ3loB4MNI/hYW2/xb6BgYALJjIkqoo0wYD0SeMLECE4p+QnK6GX8hjDA==",
+  "dgSpecHash": "yeK0meoi+z8OaJyHKkXTkdHIIJESQDIA4rxWJtAuJY4Akc1uZ/LTQCV/iN5OXCT4mq7BOHa+FXJoN44tbfum+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj",
+  "projectFilePath": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+    "C:\\Users\\sumuk\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
+    "C:\\Users\\sumuk\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
+    "C:\\Users\\sumuk\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

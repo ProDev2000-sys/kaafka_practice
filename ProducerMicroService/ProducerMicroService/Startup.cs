@@ -31,6 +31,10 @@ namespace ProducerMicroService
             Configuration.Bind("producer", producerConfig);
             services.AddSingleton<ProducerConfig>(producerConfig);
 
+            var consumerConfig = new ConsumerConfig();
+            Configuration.Bind("consumer", consumerConfig);
+            services.AddSingleton<ConsumerConfig>(consumerConfig);
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

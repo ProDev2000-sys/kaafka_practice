@@ -9,11 +9,13 @@ namespace Consumer_MicroService
         {
             var config = new ConsumerConfig
             {
-                GroupId = "consumer_group",
-                BootstrapServers = "localhost:9092"
+                GroupId = "sps",
+
+            BootstrapServers = "localhost:9092"
             };
             using (var consumer = new ConsumerBuilder<Null,string>(config).Build())
             {
+                
                 consumer.Subscribe("demo");
                 while(true)
                 {

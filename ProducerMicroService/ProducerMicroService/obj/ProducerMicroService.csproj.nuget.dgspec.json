@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj": {}
+    "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj": {
+    "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
+        "projectUniqueName": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
         "projectName": "ProducerMicroService",
-        "projectPath": "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
+        "projectPath": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
         "packagesPath": "C:\\Users\\sumuk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\obj\\",
+        "outputPath": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sumuk\\AppData\\Roaming\\NuGet\\NuGet.Config",

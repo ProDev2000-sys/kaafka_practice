@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj": {}
+    "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj": {
+    "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj",
+        "projectUniqueName": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj",
         "projectName": "Consumer_MicroService",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\kaafka_practice\\ProducerMicroService\\Consumer_MicroService\\obj\\",
+        "projectPath": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\Consumer_MicroService\\Consumer_MicroService.csproj",
+        "packagesPath": "C:\\Users\\sumuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\Consumer_MicroService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sumuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PcMJjFl+09JqLw9YsbWrzITREtguCVs3iUzGu59vB1MIAj/Jb7tO8LH8G7ISpj53UOR0DWvjmFFdnDojEg7Qg==",
+  "dgSpecHash": "Ulwan+nDaz07SiPRz8474P9fzn72UlILLb9k/JxSGwhLnKP+ubpziAdZjf/UIq1HxXuR/nJ9K8rhpOrAihaEag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sumuk\\Source\\Repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
+  "projectFilePath": "C:\\Users\\sumuk\\source\\repos\\kaafka_practice_Pratysha\\ProducerMicroService\\ProducerMicroService\\ProducerMicroService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sumuk\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
     "C:\\Users\\sumuk\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
