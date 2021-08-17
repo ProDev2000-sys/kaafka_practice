@@ -11,7 +11,12 @@ namespace Consumer_MicroService
             {
                 GroupId = "sps",
 
-            BootstrapServers = "localhost:9092"
+                BootstrapServers = "localhost:9092",
+
+                AutoOffsetReset=AutoOffsetReset.Latest,
+
+                EnableAutoCommit=true,
+
             };
             using (var consumer = new ConsumerBuilder<Null,string>(config).Build())
             {
